@@ -32,10 +32,6 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/surwi/Desktop/programowanie/projekty/html/Html-blazor/Blazor_Pong/Blazor_Pong/Pages/Home.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/surwi/Desktop/programowanie/projekty/html/Html-blazor/Blazor_Pong/Blazor_Pong/Pages/Weather.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV2VhdGhlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
@@ -51,3 +47,7 @@ build_metadata.AdditionalFiles.CssScope = b-280br591lh
 [C:/Users/surwi/Desktop/programowanie/projekty/html/Html-blazor/Blazor_Pong/Blazor_Pong/Layout/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-6oyg1q5qwy
+
+[C:/Users/surwi/Desktop/programowanie/projekty/html/Html-blazor/Blazor_Pong/Blazor_Pong/Pages/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-6wkjem64vr

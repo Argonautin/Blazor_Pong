@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Blazor_Pong")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a78a12d983cc7f73b36fc2662ac8aa52f35d4af")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac059ee0df7e811061952b37bca45c54a29d1d02")]
 [assembly: System.Reflection.AssemblyProductAttribute("Blazor_Pong")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Blazor_Pong")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
